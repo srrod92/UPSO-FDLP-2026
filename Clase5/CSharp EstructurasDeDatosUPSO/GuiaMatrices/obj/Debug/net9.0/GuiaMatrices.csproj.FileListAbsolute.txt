@@ -1,0 +1,14 @@
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\bin\Debug\net9.0\GuiaMatrices.exe
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\bin\Debug\net9.0\GuiaMatrices.deps.json
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\bin\Debug\net9.0\GuiaMatrices.runtimeconfig.json
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\bin\Debug\net9.0\GuiaMatrices.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\bin\Debug\net9.0\GuiaMatrices.pdb
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.AssemblyInfoInputs.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.AssemblyInfo.cs
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\refint\GuiaMatrices.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.pdb
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\GuiaMatrices.genruntimeconfig.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\GuiaMatrices\obj\Debug\net9.0\ref\GuiaMatrices.dll

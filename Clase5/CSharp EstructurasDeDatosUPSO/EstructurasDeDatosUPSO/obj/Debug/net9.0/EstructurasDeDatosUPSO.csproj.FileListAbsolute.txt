@@ -1,0 +1,14 @@
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\bin\Debug\net9.0\EstructurasDeDatosUPSO.exe
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\bin\Debug\net9.0\EstructurasDeDatosUPSO.deps.json
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\bin\Debug\net9.0\EstructurasDeDatosUPSO.runtimeconfig.json
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\bin\Debug\net9.0\EstructurasDeDatosUPSO.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\bin\Debug\net9.0\EstructurasDeDatosUPSO.pdb
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.AssemblyInfoInputs.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.AssemblyInfo.cs
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.csproj.CoreCompileInputs.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\refint\EstructurasDeDatosUPSO.dll
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.pdb
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\EstructurasDeDatosUPSO.genruntimeconfig.cache
+C:\Users\Rod\source\repos\EstructurasDeDatosUPSO\EstructurasDeDatosUPSO\obj\Debug\net9.0\ref\EstructurasDeDatosUPSO.dll

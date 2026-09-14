@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rod\\source\\repos\\EstructurasDeDatosUPSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59D368B2-F3D3-4D0F-ADCA-C946AAA4125E}|GuiaMatrices\\GuiaMatrices.csproj|c:\\users\\rod\\source\\repos\\estructurasdedatosupso\\guiamatrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D368B2-F3D3-4D0F-ADCA-C946AAA4125E}|GuiaMatrices\\GuiaMatrices.csproj|solutionrelative:guiamatrices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AE8F71-AD7D-4857-9C84-76F30B7AC4F9}|EstructurasDeDatosUPSO\\EstructurasDeDatosUPSO.csproj|c:\\users\\rod\\source\\repos\\estructurasdedatosupso\\estructurasdedatosupso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6AE8F71-AD7D-4857-9C84-76F30B7AC4F9}|EstructurasDeDatosUPSO\\EstructurasDeDatosUPSO.csproj|solutionrelative:estructurasdedatosupso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rod\\source\\repos\\EstructurasDeDatosUPSO\\GuiaMatrices\\Program.cs",
+              "RelativeDocumentMoniker": "GuiaMatrices\\Program.cs",
+              "ToolTip": "C:\\Users\\Rod\\source\\repos\\EstructurasDeDatosUPSO\\GuiaMatrices\\Program.cs",
+              "RelativeToolTip": "GuiaMatrices\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:36:15.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rod\\source\\repos\\EstructurasDeDatosUPSO\\EstructurasDeDatosUPSO\\Program.cs",
+              "RelativeDocumentMoniker": "EstructurasDeDatosUPSO\\Program.cs",
+              "ToolTip": "C:\\Users\\Rod\\source\\repos\\EstructurasDeDatosUPSO\\EstructurasDeDatosUPSO\\Program.cs",
+              "RelativeToolTip": "EstructurasDeDatosUPSO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T22:55:35.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
