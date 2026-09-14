@@ -1,0 +1,68 @@
+[gd_scene format=3 uid="uid://cv5byinqdcg4n"]
+
+[ext_resource type="Script" uid="uid://dy45eif1q8nwd" path="res://GameController.gd" id="1_8trh1"]
+
+[node name="Tateti" type="Control" unique_id=1035693306]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 1
+script = ExtResource("1_8trh1")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1388297693]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="." unique_id=1312368091]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -97.0
+offset_top = 19.0
+offset_right = 99.0
+offset_bottom = 54.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(0.43137255, 0.83137256, 0.83137256, 1)
+theme_override_font_sizes/font_size = 25
+text = "El ganador es : X"
+horizontal_alignment = 1
+
+[node name="Button" type="Button" parent="." unique_id=1587708480]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -105.0
+grow_horizontal = 2
+grow_vertical = 0
+text = "Reiniciar"
+
+[node name="GridContainer" type="GridContainer" parent="." unique_id=969896772]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -82.0
+offset_top = -129.0
+offset_right = 82.0
+offset_bottom = 35.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/h_separation = 0
+theme_override_constants/v_separation = 0
+columns = 3
+
+[connection signal="button_down" from="Button" to="." method="reiniciar"]
