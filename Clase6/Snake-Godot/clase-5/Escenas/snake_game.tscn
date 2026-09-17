@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://dlmen24qfir1a"]
+
+[ext_resource type="Script" uid="uid://bmpddmc2kgdkx" path="res://Escenas/snake_game.gd" id="1_sfw53"]
+[ext_resource type="PackedScene" uid="uid://dpnh7c5kcwr1n" path="res://Escenas/Snake.tscn" id="1_xp3in"]
+
+[node name="SnakeGame" type="Node2D" unique_id=1957437449]
+script = ExtResource("1_sfw53")
+
+[node name="Timer" type="Timer" parent="." unique_id=711766200]
+wait_time = 0.1
+autostart = true
+
+[node name="Snake" parent="." unique_id=156089532 instance=ExtResource("1_xp3in")]
+position = Vector2(-438, 6)
+
+[connection signal="timeout" from="Timer" to="Snake" method="_on_timer_timeout"]
